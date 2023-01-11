@@ -1,0 +1,9 @@
+# Unity-Basic-API_1.0
+__________________________________________________________________________________________________________________________________________________________________________
+Basic unity api, i made for my self but wanted to share with the wold for some feedback on my first time doing this. it contains PHP, C#, and SQL Scripts
+__________________________________________________________________________________________________________________________________________________________________________
+
+For the server i used Devserver 17.
+this is the best way to create a easy api website.
+i know the api is buggy but i just wanted to share my old work
+__________________________________________________________________________________________________________________________________________________________________________
